@@ -3,3 +3,10 @@
 TESTING:Submit your query here and get your answer in your inbox! https://tally.so/r/n0zkKN
 
 You can find the build here: https://us2.make.com/1038947/scenarios?folder=all&tab=all
+
+
+STEPS:
+1. Build scenario that can extract information from FAQ Google Doc: https://docs.google.com/document/d/1FRBSw9eoIJihZn1wsGqEfFoC6lqpfiCfq7jJPiAkwHE/edit?tab=t.0#heading=h.vcjp5d39um0q
+2. Read information from the tally forms as soon as it is available
+3. Give it to an AI agent, explain the task to the agent through the prompt. Give agent access to the doc reading scenario built earlier
+4. Build another tool (A agent) that send email to customers. Give access of this tool to the AI agent
